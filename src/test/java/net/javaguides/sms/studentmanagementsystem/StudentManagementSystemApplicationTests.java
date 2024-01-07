@@ -1,4 +1,4 @@
-package net.javaguides.studentmanagementsystem;
+package net.javaguides.sms.studentmanagementsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
